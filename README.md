@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RealHotnCold
-- 👀 I’m interested in Games/Dev
-- 🌱 I’m currently learning Nothing actually
+- 👀 I’m interested in Math, Low Latency Systems, HFTs and OS
+- 🌱 I’m currently learning A little bit of everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Bruh/Really
